@@ -81,8 +81,7 @@ stage('DeploytoTomcat'){
          body: '''Build Done, Please check the build log for more details..
          
                   Regards,
-                  Mithun Technologies,
-                  9980923226'''
+                  
  }
  
  
