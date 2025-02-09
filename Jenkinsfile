@@ -36,7 +36,6 @@ node
  emailext body: '''Build is over..
 
  Regards,
- Mithun Technologies,
- 9980923226.''', subject: 'Build is over', to: 'devopstrainingblr@gmail.com'
+ m'
  }
 }
